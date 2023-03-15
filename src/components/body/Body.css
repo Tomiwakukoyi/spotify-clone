@@ -1,0 +1,7 @@
+.body {
+  padding: 30px;
+  flex: 0.8; /* says the body is using 80% of the available space */
+  background: linear-gradient(rgb(91, 87, 115), rgba(0, 0, 0, 1));
+  height: 100vh;
+  color: white;
+}
