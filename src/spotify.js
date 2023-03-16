@@ -7,7 +7,7 @@ export const authEndpoint = "https://accounts.spotify.com/authorize";
 
 //A redirect URI is the loaction where a user will be directed to after successful login or after successfull authentication
 //next is the redirect uri, did this at the spotify developer setup
-const redirectUri = "http://localhost:3000";
+const redirectUri = "http://spotify-clone-eight-rust.vercel.app/";
 //gotten from the dashboard
 const clientId = "975c95b0a3ee4e50b01fe999d14823b6";
 
